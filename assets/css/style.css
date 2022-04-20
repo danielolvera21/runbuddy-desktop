@@ -204,7 +204,10 @@ header nav ul li a {
 }
 
 /*REACH OUT*/
-
+.contact-info iframe {
+    width: 400px;
+    height: 400px;
+}
 
 /* FOOTER STYLE START*/
 footer {
